@@ -1,0 +1,22 @@
+/* For the validation notice */
+
+
+@keyframes a
+{ 
+	from {
+	background-color:#FFFFFF; color:#black;
+	
+	} 
+	to {
+	background-color:#;color:#FFFFFF;;}
+}
+
+
+.notice_add
+{
+	font-weight:bold;
+	font-size:10px;
+	color:#FF0000;
+	animation:a infinite;
+	animation-duration:1s;
+}

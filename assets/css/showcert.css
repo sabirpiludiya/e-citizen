@@ -1,0 +1,63 @@
+
+.fakeimg {
+ 	width:100%;
+	height:100%;
+}
+
+a
+{
+	color:#FF0000;
+}
+
+div{
+	width:100%;
+}
+	
+	.rt{
+		border:solid 2px black;
+		border-radius:5px;
+		float:left;
+		text-align:center;
+		margin-left:20px;
+	}
+
+.rt {
+    transition: transform .2s; /* Animation */
+}
+
+.rt:hover {
+    transform: scale(1.1); 
+	color:#663366;
+	text-decoration:blink;
+	font-weight:bolder;
+	font-family:"Times New Roman", Times, serif
+}
+
+
+
+
+.rs{
+	border:solid 1px black;
+	border-radius:5px;
+	float:left;
+	width:100%;
+	text-align:center;
+}
+
+.rs {
+    transition: transform .2s; /* Animation */
+}
+
+.rs:hover {
+    transform: scale(1.02); 
+	color:#663366;
+	font-size:20px;
+	background:#fffff6;
+	font-weight:bold;
+	text-decoration:blink;
+	font-weight:bolder;
+}
+
+td {
+	margin-top:5px;
+}

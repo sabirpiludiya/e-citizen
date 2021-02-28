@@ -1,0 +1,24 @@
+/* For the form design */
+
+
+input[type=text],input[type=email],input[type=password] {
+background:#FFFFDC;
+border-radius:7px;
+height:3.3vw;
+color:#000000;
+}
+
+textarea {
+background:#FFFFDC;
+border-radius:7px;
+font-family:"Courier New", Courier, monospace;
+color:#000000;
+}
+
+select{
+background:#FFFFDC;
+border-radius:7px;
+height:30px;
+width:100%;
+color:#000000;
+}
